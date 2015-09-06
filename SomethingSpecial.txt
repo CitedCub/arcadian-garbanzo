@@ -1,1 +1,3 @@
 Some Pig!
+
+This is some new text, and now I'm ready to commit it.
